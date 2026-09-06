@@ -1,0 +1,15 @@
+wizbiz-website/
+|-- index.html
+|-- about.html
+|-- services.html
+|-- contact.html
+|-- css/
+|   `-- style.css
+|-- js/
+|   `-- app.js
+|-- tests/
+|   `-- test-plan.md
+|-- docs/
+|   `-- deployment.md
+|-- .gitignore
+`-- README.md
