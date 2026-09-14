@@ -228,3 +228,5 @@ p  { max-width: 68ch; }
   text-align: center;
 }
 .site-footer p { max-width: none; margin: 0; }
+
+/* CODEOWNERS check, to be reverted */
